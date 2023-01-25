@@ -1,0 +1,16 @@
+execute as @s[scores={RAN.ChunkZ=0}] positioned ~ ~ ~ run function chunk_outline:place
+execute as @s[scores={RAN.ChunkZ=1}] positioned ~ ~ ~-1 run function chunk_outline:place
+execute as @s[scores={RAN.ChunkZ=2}] positioned ~ ~ ~-2 run function chunk_outline:place
+execute as @s[scores={RAN.ChunkZ=3}] positioned ~ ~ ~-3 run function chunk_outline:place
+execute as @s[scores={RAN.ChunkZ=4}] positioned ~ ~ ~-4 run function chunk_outline:place
+execute as @s[scores={RAN.ChunkZ=5}] positioned ~ ~ ~-5 run function chunk_outline:place
+execute as @s[scores={RAN.ChunkZ=6}] positioned ~ ~ ~-6 run function chunk_outline:place
+execute as @s[scores={RAN.ChunkZ=7}] positioned ~ ~ ~-7 run function chunk_outline:place
+execute as @s[scores={RAN.ChunkZ=8}] positioned ~ ~ ~-8 run function chunk_outline:place
+execute as @s[scores={RAN.ChunkZ=9}] positioned ~ ~ ~-9 run function chunk_outline:place
+execute as @s[scores={RAN.ChunkZ=10}] positioned ~ ~ ~-10 run function chunk_outline:place
+execute as @s[scores={RAN.ChunkZ=11}] positioned ~ ~ ~-11 run function chunk_outline:place
+execute as @s[scores={RAN.ChunkZ=12}] positioned ~ ~ ~-12 run function chunk_outline:place
+execute as @s[scores={RAN.ChunkZ=13}] positioned ~ ~ ~-13 run function chunk_outline:place
+execute as @s[scores={RAN.ChunkZ=14}] positioned ~ ~ ~-14 run function chunk_outline:place
+execute as @s[scores={RAN.ChunkZ=15}] positioned ~ ~ ~-15 run function chunk_outline:place

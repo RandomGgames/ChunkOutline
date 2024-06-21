@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 7,
-		"description": "RandomGgames' Chunk Outline"
+		"pack_format": 43,
+		"description": "Creates 16x16 platforms aligned to the chunk. Created by RandomGgames."
 	}
 }
